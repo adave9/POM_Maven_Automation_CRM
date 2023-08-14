@@ -11,6 +11,7 @@ import com.crm.qa.pages.LoginPage;
 
 //Test Note added
 //Test note from eclipse
+//Final note from Browser added
 public class LoginPageTest extends TestBase{
 	LoginPage loginPage;
 	HomePage homePage;
