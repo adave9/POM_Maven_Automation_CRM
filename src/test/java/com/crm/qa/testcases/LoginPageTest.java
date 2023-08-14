@@ -10,6 +10,7 @@ import com.crm.qa.pages.HomePage;
 import com.crm.qa.pages.LoginPage;
 
 //Test Note added
+//Test note from eclipse
 public class LoginPageTest extends TestBase{
 	LoginPage loginPage;
 	HomePage homePage;
